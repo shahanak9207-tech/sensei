@@ -112,8 +112,8 @@ For Hardware:
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
+- [Name 1]: Shahana k
+- [Name 2]: Fathima Nubla M
 - [Name 3]: [Specific contributions]
 
 ---
