@@ -2,39 +2,59 @@
 
 
 
-# [Project Name] 🎯
+# [HidePix] 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: Senseii
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
+- Team Lead: [Shahana k] - Sahrdaya college of engineering and technology
+- Member 2: [Fathima Nubla M ] - Sahrdaya college of engineering and technology
 - Member 3: [Name] - [College]
 
 ### Project Description
-[2-3 lines about what your project does]
+HidePix is a playful photo-hidimg application designed to turn a simple privacy feature into a fun experience.
+Users can hide a selected photo and interact with features like wallpaper trap,mystery section,and puzzle unlock.
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+The biggest problem in the world:your friends being unnecessarily curious about your photos.They don't even need to see it.
+HidePix was created to deal with this extremely important problem.
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
-
+HidePix hides the selected photo and makes the process unnecessarily dramatic.it traps the wallpaper,adds a mystery section,provides a puzzle for 
+early unlocking,and even says "Nope!" when you try to interfere.Because apparently,hiding one photo wasn't complicated enough
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- [language used:Python 3.10+C++
+- [Frameworks used:Tkinter(Native GUI Framework]
+- [Libraries used:
+ ctypes (Win32 API integration via SystemParametersInfoW for desktop wallpaper manipulation)
+ winreg (Windows Registry read/write for automatic wallpaper backup and restoration)
+ Pillow (PIL - Image rendering, thumbnail previews, aspect-ratio preservation)
+ pygamme (Audio playback & sound effect management)
+ winsound / System.Speech (Zero-dependency fallback sound engine & Text-To-Speech speech synthesis)
+ wave, struct, math (Procedural 8-bit soundwave generator for offline audio)
+ threading, subprocess, json, pathlib (Non-blocking audio, countdown timers, local JSON persistence)
+
+- [Tools used:Visual Studio Code,Windows Powershells,Git & Github]
 
 For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- [Host Device: Laptop or Desktop PC
+Output Display: Monitor / Laptop Screen (The canvas where the wallpaper prank is broadcasted)
+Audio Output: Internal Speakers or Headphones (Plays the cute voice-overs: "Nope! I'm not deleting that!" and "Wow nice try!")
+Input Devices: Keyboard & Mouse / Trackpad (Used to select photos and solve the trick math puzzle)]
+- [Operating System: Windows 10 / 11 (64-bit)
+Processor: Any x86/x64 dual-core CPU or higher (Intel / AMD)
+Memory (RAM): Minimum 512 MB available RAM (Ultra-lightweight footprint)
+Storage: Less than 50 MB disk space
+Network: None required (100% Offline, local, and private)]
+
+- [A Windows PC/laptop with an active desktop session
+Audio enabled (so the audience can hear the voice-over prank)
+An unsuspecting friend or demo judge to prank!]
 
 ### Implementation
 For Software:
