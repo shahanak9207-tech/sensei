@@ -2,7 +2,7 @@
 
 
 
-# [HidePix] 🎯
+# HidePix 🎯
 
 
 ## Basic Details
@@ -10,8 +10,8 @@
 
 
 ### Team Members
-- Team Lead: [Shahana k] - Sahrdaya college of engineering and technology
-- Member 2: [Fathima Nubla M ] - Sahrdaya college of engineering and technology
+- Team Lead: Shahana k - Sahrdaya college of engineering and technology
+- Member 2: Fathima Nubla M  - Sahrdaya college of engineering and technology
 - Member 3: [Name] - [College]
 
 ### Project Description
