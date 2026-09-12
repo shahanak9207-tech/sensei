@@ -72,10 +72,12 @@ For Software:
 ](Add screenshot 1 here with proper name)
 *Add caption explaining what this shows*
 
-![Screenshot2](Add screenshot 2 here with proper name)
+![<img width="1892" height="977" alt="Screenshot 2026-09-12 063827" src="https://github.com/user-attachments/assets/33dabd77-10f9-4ede-9746-92cc4535fb6e" />
+](Add screenshot 2 here with proper name)
 *Add caption explaining what this shows*
 
-![Screenshot3](Add screenshot 3 here with proper name)
+![<img width="1902" height="952" alt="Screenshot 2026-09-12 063655" src="https://github.com/user-attachments/assets/1eed0dc5-0bfd-49b0-be1b-41df690b5709" />
+](Add screenshot 3 here with proper name)
 *Add caption explaining what this shows*
 
 # Diagrams
